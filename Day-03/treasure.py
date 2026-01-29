@@ -52,4 +52,4 @@ if choice == 'left':
 
 else:
     print("\nYou got hit by a train.")
-    print("Game over!")
+    print("Game over!") 
