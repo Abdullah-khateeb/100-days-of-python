@@ -46,3 +46,4 @@ elif player_choice == 1 and computer_choice == 0:
   print("You win.")
 else:
   print("You lose.")
+ 
